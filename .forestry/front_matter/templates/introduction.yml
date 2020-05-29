@@ -1,4 +1,9 @@
 ---
 label: 'Introduction '
 hide_body: false
-fields: []
+fields:
+- name: getting_started_
+  type: text
+  config:
+    required: false
+  label: 'Getting Started '
