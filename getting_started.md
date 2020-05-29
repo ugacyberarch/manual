@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction
-description: 'Getting Started Section '
+description: 'Getting Started '
 
 ---
 ## Cyber Security and Privacy
