@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: 'Getting Started '
+pages:
+- Introduction.md
