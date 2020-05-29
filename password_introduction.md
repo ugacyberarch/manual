@@ -19,5 +19,4 @@ Passwords are ubiquitous today, and understanding the reasoning behind good pass
 
 [Note to Readers](./introduction-md/ "Note to Reader ")
 
-
-[How Passwords Work](./introduction-md/ "Note to Reader ")
+[How Passwords Work]( "How Passwords Work ")
