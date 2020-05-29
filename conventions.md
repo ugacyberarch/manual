@@ -2,7 +2,6 @@
 layout: default
 title: 'Introduction '
 description: 'Conventions '
-published: false
 
 ---
 ## Conventions
