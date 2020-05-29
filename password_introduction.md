@@ -2,6 +2,7 @@
 layout: default
 title: 'Passwords - 1 '
 description: 'Introduction '
+published: false
 
 ---
 ## Passwords
@@ -16,4 +17,4 @@ Passwords are ubiquitous today, and understanding the reasoning behind good pass
 
 ## New Account
 
-[back](./)
+[Note to Readers](./introduction-md/ "Note to Reader ")
