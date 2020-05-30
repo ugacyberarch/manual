@@ -11,7 +11,7 @@ Many phishing attacks deceive their victims with a very simple trick. They show 
 
 Does this link go where you expect?
 
-[**http://paypal.com/account**](http://paypal.com/account "http://paypal.com/account")
+[**http://paypal.com/account**](https://en.wikipedia.org/wiki/Phishing "http://paypal.com/account")
 
 Websites, and many of the e-mails you receive use a special format called HTML that allows you to add structured and interactive elements.
 
