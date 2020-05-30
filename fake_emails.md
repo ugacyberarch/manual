@@ -14,5 +14,5 @@ We saw how fake domains are used to create links that look legitimate, and now w
 
 Click on the mail icon below to see what phishing e-mails may look like.
 
-[Fake Links](./fake_links.html "Fake Links")  
-[Summary](./ "Summary")
+[← Fake Links](./fake_links.html "Fake Links")  
+[Summary →](./phishing_summary.html "Summary")
