@@ -1,19 +1,23 @@
 ---
 layout: default
-title: Phishing - 4
-description: Fake Emails
+title: Phishing - 5
+description: Summary
 published: false
 
 ---
-## Fake Emails
+## Summary
 
-Most of us have to deal with a lot of junk mail. Our e-mail providers have gotten better at filtering out unsolicited and fake e-mails, but no system they implement will be foolproof. Like most other aspects of cybersecurity, it is a cat-and-mouse game. Bad actors are continually coming up with new ways to circumvent protection mechanisms and evade detection.
+Phishing continues to be a lucrative tactic for online criminals. It is not always easy to differentiate fraudulent correspondence from otherwise legitimate and important communication from the services and people you work with.
 
-To be secure, you need to be dubious of every e-mail you receive.
+It is made even more difficult when attackers tailor language and requests to you personally and insist on urgency.
 
-We saw how fake domains are used to create links that look legitimate, and now we will explore how e-mails are also crafted to look legitimate.
+Your first defense is in distrusting every e-mail you receive.
 
-Click on the mail icon below to see what phishing e-mails may look like.
+Look for any indication of deceit. Is the grammar and language used consistent with the suggested source of the e-mail? Are they asking for sensitive information? Do the logos or style seem a bit wrong?
 
-[Fake Links](./fake_links.html "Fake Links")  
-[Summary](./ "Summary")
+We discussed how criminals create fake domain names and fake links to make the scam more convincing.
+
+Even if you have confidence in the format and content of the e-mail, you should check every link you use; before you click it and in the address bar after the website loads.
+
+[← Fake Emails](./fake_links.html "Fake Emails")  
+[Survey →](./ "Survey")
