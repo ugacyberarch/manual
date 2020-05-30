@@ -12,7 +12,7 @@ However, when it comes to the internet, it isn't always straight forward how to 
 
 **Why do we lock our doors?**
 
-Oddly enough, those of us that don't need to lock our doors can tell you the answer &mdash; **trust**. If you trust your neighbors, and your community, it isn't necessary. The risk is low.
+Oddly enough, those of us that don't need to lock our doors can tell you the answer — **trust**. If you trust your neighbors, and your community, it isn't necessary. The risk is low.
 
 Unfortunately, the internet is a global community with neighbors you **cannot** trust, and criminals on the internet can steal a lot more than your car stereo. The risk is very high.
 
