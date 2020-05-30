@@ -67,4 +67,4 @@ Prefer `https://` to `http://`.
 Keep your passwords secret but remember they are not entirely secret. You expose your password to every service you use it on, and should any one of them be compromised, or should that password be intercepted, all your accounts can fall like dominoes.
 
 [Common Passwords](./ "Common Passwords")  
-[Password Requirements](./ "Password Requirements")
+[Password Requirements](./password_requirements.html "Password Requirements")
