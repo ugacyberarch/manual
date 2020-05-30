@@ -35,12 +35,6 @@ Suppose you were given a phone protected by a 4-digit PIN. How long would it tak
 
 Password strength is measured by how long it would take a _computer_ to try every possibility.
 
-
-
-
-
-
-
 Four-digit passwords are _not_ secure if you are allowed to keep guessing. You can guess them all very quickly! Fortunately, most devices and services don't allow you to make unlimited guesses. They may make you wait before your next guess, or they may just lock your account.
 
 However, when you create a password, you can never be sure how many times an attacker will have to guess your password.
@@ -70,6 +64,23 @@ That is a lot more than the number of 4-digit PINs (0000 ... 9999):
 How fast could a computer find the winning numbers?
 
 That depends on how many guesses your computer can make. A very fast computer could guess billions of times per second.
+
+
+
+
+
+
+## Strong Passwords
+
+We went from 10 thousand possible PIN numbers for a phone, to over 40 billion possible lottery numbers, and still, a very fast computer could guess every possible choice in a very short amount of time, almost instantly.
+
+Guessing your password needs to be even more difficult than winning the lottery.
+
+How can that be possible?
+
+Computers do have limitations. Only a very fast computer can test 10 billion passwords per second, and we will see that, even at that incredible speed, it is not difficult to create passwords that are very hard to guess; passwords that would take hundreds and thousands of years to guess.
+
+You can enter your own password, or maybe try the passwords we talked about before (`P1ckl3$` and `scrubwithsoaptocleanwell`). The difference may surprise you.
 
 [Common Passwords](./ "Common Passwords")  
 [Password Requirements](./ "Password Requirements")
