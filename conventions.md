@@ -32,4 +32,5 @@ In this case, you might compare knowing the difference between these links and s
 You may end up being scammed if you don't look! It is important.
 
 
-[back](./)
+[← Getting Started](./getting_started.html)
+[Note to Readers →](./note_to_readers.html)
