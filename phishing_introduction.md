@@ -16,5 +16,5 @@ It is a very effective strategy, and the most successful phishing attacks are of
 
 Quite honestly, you can never be completely sure that the e-mails you receive are legitimate, but there is a very basic knowledge of web technologies that will protect you from being deceived.
 
-[Summary](./passwords_summary.html "Summary")  
-[Fake Domains](./ "Fake Domains")
+[← Summary](./passwords_summary.html "Summary")  
+[Fake Domains →](./fake_domains.html "Fake Domains")
