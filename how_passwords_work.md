@@ -30,6 +30,6 @@ Thinking about passwords as keys will continue to be helpful as we talk about pa
 
 Next, we will talk about common passwords. Imagine if there were only a few dozen variations of keys for a lock. Intruders would find it easy to simply try all of the possible keys.
 
-[Introduction](./ "Introduction ")
+[← Introduction](./password_introduction.html "Introduction ")
 
-[Common Passwords](./ "Common Passwords")
+[Common Passwords →](./common_passwords.html "Common Passwords")
