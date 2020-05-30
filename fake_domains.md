@@ -11,11 +11,12 @@ Since the "dot com boom" of the 90s, domain names have been an ever-increasing p
 
 **What is a "domain name"?**
 
-facebook.com
-www.google.com
-www.bbc.co.uk
-en.wikipedia.org
-Domain names, sometimes called hostnames, are the identifiers we give to systems on the internet. For a few dollars a year, you can register your own domain as easy as ordering a new pair of shoes.
+* facebook.com
+* www.google.com 
+* www.bbc.co.uk 
+* en.wikipedia.org 
+
+Domain names, sometimes called _hostnames_, are the identifiers we give to systems on the internet. For a few dollars a year, you can register your own domain as easy as ordering a new pair of shoes.
 
 One common way that phishing e-mails attempt to trick recipients is by using domain names that look legitimate but actually lead to counterfeit websites created solely to steal your information.
 
@@ -58,6 +59,7 @@ Try adding paypal.com to the beginning of any other domain. Does that change the
 Adding a fake prefix is not the only trick criminals use. Below is a guessing game. Would any of these phish fool you?
 
 ## Takeaways
+
 Don't trust a domain simply because it starts with an official name.
 
 Domain ownership is applied right-to-left, and if you are ever in doubt think about it as a tree.
