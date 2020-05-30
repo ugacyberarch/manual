@@ -82,5 +82,12 @@ Computers do have limitations. Only a very fast computer can test 10 billion pas
 
 You can enter your own password, or maybe try the passwords we talked about before (`P1ckl3$` and `scrubwithsoaptocleanwell`). The difference may surprise you.
 
-[Common Passwords](./ "Common Passwords")  
-[Password Requirements](./ "Password Requirements")
+## Takeaways
+Good passwords do not have to be complicated. Try to be creative and create memorable passwords that would take a very long time to guess.
+
+You cannot be sure how many guesses can be made for your password.
+
+A password is strong if it would take a very fast computer a very long time to guess.
+
+[Reusing Passwords](./ "Reusing Passwords")  
+[Summary](./ "Summary")
