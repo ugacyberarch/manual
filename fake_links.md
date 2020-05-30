@@ -98,5 +98,5 @@ Find the domain name in a URL.
 
 Always check the URL in the address bar.
 
-[Fake Domains](./fake_domains.html "Fake Domains")  
-[Fake Emails](./ "Fake Emails")
+[← Fake Domains](./fake_domains.html "Fake Domains")  
+[Fake Emails →](./fake_emails.html "Fake Emails")
