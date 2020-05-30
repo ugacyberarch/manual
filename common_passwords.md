@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Passwords - 3
-description: 'How Passwords Work '
+description: Common Passwords
 published: false
 
 ---
@@ -25,6 +25,6 @@ Remember that attackers do not have to try every password by hand; they often us
 
 You may have also noticed that, although you typed your password into a box that hid the text you entered, it was displayed in clear text on the scoreboard.
 
-[Introduction](./ "Introduction ")
+[How Passwords Work](./ "How Passwords Work")
 
-[Common Passwords](./ "Common Passwords")
+[Reusing Passwords](./ "Reusing Passwords")
