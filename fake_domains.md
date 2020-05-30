@@ -66,5 +66,5 @@ Domain ownership is applied right-to-left, and if you are ever in doubt think ab
 
 Be wary of domains that end in a top-level you didn't expect (e.g. `.co` instead of `.com`).
 
-[Introduction](./passwords_summary.html "Introduction")  
+[Introduction](./phishing_introduction.html "Introduction")  
 [Fake Links](./ "Fake Links")
