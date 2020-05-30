@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 'Phishing - 1 '
-description: 'Introduction '
+title: 'Phishing - 2 '
+description: 'Fake Domains '
 published: false
 
 ---
@@ -17,5 +17,5 @@ It is a very effective strategy, and the most successful phishing attacks are of
 
 Quite honestly, you can never be completely sure that the e-mails you receive are legitimate, but there is a very basic knowledge of web technologies that will protect you from being deceived.
 
-[Summary](./passwords_summary.html "Summary")  
-[Fake Domains](./ "Fake Domains")
+[Introduction](./passwords_summary.html "Introduction")  
+[Fake Links](./ "Fake Links")
