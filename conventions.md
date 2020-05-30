@@ -31,6 +31,7 @@ In this case, you might compare knowing the difference between these links and s
 
 You may end up being scammed if you don't look! It is important.
 
-
 [← Getting Started](./getting_started.html "Getting Started")
+
+
 [Note to Readers →](./note_to_readers.html "Note to Readers")
