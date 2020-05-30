@@ -2,31 +2,31 @@
 layout: default
 
 ---
+[Link to another page](./another-page.html)
 
-[Link to another page](./another-page.html).
-
-# Interactive Cybersecurity Manual 
-
+# Interactive Cybersecurity Manual
 
 ## Introduction
+
 ***
-* level 1 item
+
+* [Getting Started]()
   * level 2 item
   * level 2 item
     * level 3 item
     * level 3 item
 
 ## Passwords
+
 ***
 
 ## Phishing
+
 ***
 
 ## Feedback
+
 ***
-
-
-
 
 ### Small image
 
@@ -48,5 +48,3 @@ layout: default
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
-
- 
