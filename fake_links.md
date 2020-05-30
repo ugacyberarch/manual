@@ -88,7 +88,7 @@ How do you know you are actually on the website you want to be on?
 
 You must check your address bar!
 
-The difference between [`https://chase.com-onlinebanking.com/`](https://chase.com-onlinebanking.com/ "https://chase.com-onlinebanking.com/") and [`https://chase.com`](https://chase.com "https://chase.com") could be your life savings.
+The difference between [`https://chase.com-onlinebanking.com/`]("https://chase.com-onlinebanking.com/") and [`https://chase.com`]("https://chase.com") could be your life savings.
 
 ## Takeaways
 
