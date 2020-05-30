@@ -17,6 +17,10 @@ You may be surprised; the reference list contains over 500 million passwords.
 
 ## "Survey Says!"
 
+
+
+
+
 ## Takeaways
 
 Personal does not always mean unpredictable. Try guessing a pet's name and appending the day of the month you were born. Was it in the list?
