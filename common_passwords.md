@@ -1,35 +1,29 @@
 ---
 layout: default
-title: Passwords - 2
+title: Passwords - 3
 description: 'How Passwords Work '
 published: false
 
 ---
-## How Passwords Work
+## Common Passwords
 
-Passwords are used to restrict access to content online. Let's develop an analogy that will help you understand how they work, their shortcomings, and consequently the risk you face. First, we start by thinking about a password as a _key_. You create a password, a key, that unlocks the door to your account.
+Best practice is to avoid using common passwords. A simple technique for someone trying to break into an account is to try a list of frequently used passwords.
 
-Notice that while we are used to buying locks with keys that fit them, with passwords, you are actually responsible for creating a good key, while the website is responsible for making a lock for it to fit. A simple or common password, just like a simple or reused key, will result in a lock that is easily picked.
+Pretend for a moment that you are trying to create your own list of the most common passwords. The game below allows you to do just that. Guess up to ten passwords and see how popular they are.
 
-We will talk about how to make strong passwords later, but we need to acknowledge some additional differences between how we use locks and keys every day, and how they work online.
+The score for each password corresponds to how many times that password has been seen in recent data breaches.
 
-Usually, you unlock your own house or car, right? Online, you don't unlock things yourself. Instead, you give your key to someone else to unlock your account.
+You may be surprised; the reference list contains over 500 million passwords.
 
-This is a very important difference that reveals other risks you face.
+## "Survey Says!"
 
-Every time you login to a website, you send your key across the internet to the website's servers.
+## Takeaways
 
-The internet is one massive "network" of computers. On computer networks, you pass data from one computer to the next, until it reaches its destination. In our example, the destination is the web server.
+Personal does not always mean unpredictable. Try guessing a pet's name and appending the day of the month you were born. Was it in the list?
 
-You might imagine what additional risks you might face if you were to mail someone a key.
+Remember that attackers do not have to try every password by hand; they often use programs to automatically try passwords. We'll talk about this more when we discuss password complexity.
 
-Unless your data is **encrypted**, any computer that forwards your data can see your password.
-
-You cannot control if the website supports encryption, but you should be aware of whether your data is protected or not, i.e. if the website uses `https://`.
-
-Thinking about passwords as keys will continue to be helpful as we talk about password security.
-
-Next, we will talk about common passwords. Imagine if there were only a few dozen variations of keys for a lock. Intruders would find it easy to simply try all of the possible keys.
+You may have also noticed that, although you typed your password into a box that hid the text you entered, it was displayed in clear text on the scoreboard.
 
 [Introduction](./ "Introduction ")
 
