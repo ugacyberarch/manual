@@ -41,5 +41,31 @@ Suppose that the website does support encryption. Instead of the analogy being m
 
 **Are your passwords really secret?**
 
-[How Passwords Work](./ "How Passwords Work")  
-[Reusing Passwords](./ "Reusing Passwords")
+The server sees exactly what you input.
+
+Once shared, a secret is no longer a secret. We share our password with the website's server. Anyone that has or gains sufficient access to that server can discover your password.
+
+Once one account is compromised, those same credentials can be used to login to any service where you reused them.
+
+## Password Resets
+
+Most of us have one primary e-mail address.
+
+Should you ever forget your username or password for a website or service you use, all you have to do is click `Forgot password?` and reset it, right?.
+
+Well, that pretty much means that the password for your primary e-mail account is the nuclear launch codes of your personal security online.
+
+We've seen why you don't want to use predictable passwords and why you shouldn't reuse passwords. This is particularly important when it comes to accounts that allow you to reset passwords.
+
+Be vigilant. Protect your e-mail passwords earnestly. Make them strong, and be very sure not to reveal them to anyone.
+
+## Takeaways
+
+Take extra care to protect your primary e-mail account.
+
+Prefer `https://` to `http://`.
+
+Keep your passwords secret but remember they are not entirely secret. You expose your password to every service you use it on, and should any one of them be compromised, or should that password be intercepted, all your accounts can fall like dominoes.
+
+[Common Passwords](./ "Common Passwords")  
+[Password Requirements](./ "Password Requirements")
