@@ -5,17 +5,64 @@ description: 'Fake Domains '
 published: false
 
 ---
-## Phishing
+## Fake Domains
 
-How do you know that the e-mails you receive and the websites you visit are legitimate?
+Since the "dot com boom" of the 90s, domain names have been an ever-increasing part of daily life.
 
-Phishing is a rather silly name for an otherwise very serious risk; it is the name given to the practice of sending fraudulent e-mails that link to fake websites or somehow attempt to trick you into revealing sensitive information.
+**What is a "domain name"?**
 
-Instead of baiting a single hook and casting it, these e-mails can be sent to thousands of e-mail addresses in hope that some unsuspecting person will bite.
+facebook.com
+www.google.com
+www.bbc.co.uk
+en.wikipedia.org
+Domain names, sometimes called hostnames, are the identifiers we give to systems on the internet. For a few dollars a year, you can register your own domain as easy as ordering a new pair of shoes.
 
-It is a very effective strategy, and the most successful phishing attacks are often those that use personal information about you or impersonate someone you know or work with.
+One common way that phishing e-mails attempt to trick recipients is by using domain names that look legitimate but actually lead to counterfeit websites created solely to steal your information.
 
-Quite honestly, you can never be completely sure that the e-mails you receive are legitimate, but there is a very basic knowledge of web technologies that will protect you from being deceived.
+Phishing Domain
+
+Here is an example of a domain that was used to phish for PayPal accounts:
+
+paypal.com.9kcj.pw
+
+**How can you tell that** paypal.com.9kcj.pw **is a fake domain?**
+
+You clearly see it contains paypal.com, and then you might think the rest is just some technical bit you don't need to worry about.
+
+Alas, the paypal.com at the beginning does not mean PayPal owns the domain. Anyone can add paypal.com to the front of their domain name! The end of a domain tells you who controls it.
+
+**Reading Domain Names**
+
+You must read domain names right-to-left, separating on the "dots", to understand ownership.
+
+For example, if you read www.facebook.com from right to left, you see that com controls Facebook, which controls www.
+
+So, when you read the domain paypal.com.9kcj.pw from right to left, you see that pw controls 9kcj, which created a fake extension paypal.com.
+
+Most companies use a single "top-level" domain, (e.g. .com, .net, or .org). Be wary if you expect the domain to end in .com but it actually ends in something obscure, like .pw.
+
+That may seem rather confusing, but it all becomes clear when you understand how domains are created.
+
+## Domain Hierarchy
+
+Domains names are logically a tree. The first level of domains, called "top-level domains", are actually the suffix of the domain name. You will recognize many of them, such as com, net, and org.
+
+The next level, "second-level", are what individuals and companies purchase.
+
+All of the domains below this are controlled by whoever owns the second-level domain.
+
+Try adding paypal.com to the beginning of any other domain. Does that change the real paypal.com? Does it belong to PayPal?
+
+## Phish / Not Phish
+
+Adding a fake prefix is not the only trick criminals use. Below is a guessing game. Would any of these phish fool you?
+
+## Takeaways
+Don't trust a domain simply because it starts with an official name.
+
+Domain ownership is applied right-to-left, and if you are ever in doubt think about it as a tree.
+
+Be wary of domains that end in a top-level you didn't expect (e.g. .co instead of .com).
 
 [Introduction](./passwords_summary.html "Introduction")  
 [Fake Links](./ "Fake Links")
