@@ -4,7 +4,7 @@ title: 'Passwords - 1 '
 description: 'Introduction '
 
 ---
-## Passwords
+# Passwords
 
 Hands down, the most frustrating daily aspect of online privacy and security is the **password**.
 
