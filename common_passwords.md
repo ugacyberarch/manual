@@ -4,7 +4,7 @@ title: Passwords - 3
 description: Common Passwords
 
 ---
-## Common Passwords
+# Common Passwords
 
 Best practice is to avoid using common passwords. A simple technique for someone trying to break into an account is to try a list of frequently used passwords.
 
