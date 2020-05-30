@@ -1,33 +1,21 @@
 ---
 layout: default
-title: Passwords - 6
-description: Summary
+title: 'Phishing - 1 '
+description: 'Introduction '
 published: false
 
 ---
-## Summary
+## Phishing
 
-In short, we have discussed:
+How do you know that the e-mails you receive and the websites you visit are legitimate?
 
-* Not using predictable, common passwords.
-* Never reusing passwords.
-* What makes passwords strong.
+Phishing is a rather silly name for an otherwise very serious risk; it is the name given to the practice of sending fraudulent e-mails that link to fake websites or somehow attempt to trick you into revealing sensitive information.
 
-It seems like a small list, but now you should know what makes each important.
+Instead of baiting a single hook and casting it, these e-mails can be sent to thousands of e-mail addresses in hope that some unsuspecting person will bite.
 
-Hopefully, the technical context will lessen the frustrations you may have with your own passwords.
+It is a very effective strategy, and the most successful phishing attacks are often those that use personal information about you or impersonate someone you know or work with.
 
-There is good news. When we started talking about passwords, we mentioned that there were already solutions that would help you.
-
-**Password managers** are an easy and safe way to generate and keep track of strong passwords for all of your accounts.
-
-Companies like [**Dashlane**](https://www.dashlane.com/) and [**1Password**](https://1password.com/families/) have apps and plugins for all of your devices which will manage all of your passwords.
-
-You will no longer have to create or remember passwords. Passwords can be generated automatically and input automatically.
-
-So, you will only need to remember the password for your password manager, which will take care of the rest.
-
-However, just like your primary e-mail, it is absolutely critical that you take special care to protect this all-important "password to rule them all".
+Quite honestly, you can never be completely sure that the e-mails you receive are legitimate, but there is a very basic knowledge of web technologies that will protect you from being deceived.
 
 [Reusing Passwords](./reusing_passwords.html "Reusing Passwords")  
 [Introduction](./ "Introduction")
