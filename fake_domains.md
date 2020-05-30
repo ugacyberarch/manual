@@ -2,7 +2,6 @@
 layout: default
 title: 'Phishing - 2 '
 description: 'Fake Domains '
-published: false
 
 ---
 ## Fake Domains
