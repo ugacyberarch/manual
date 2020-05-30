@@ -28,5 +28,5 @@ So, you will only need to remember the password for your password manager, which
 
 However, just like your primary e-mail, it is absolutely critical that you take special care to protect this all-important "password to rule them all".
 
-[Reusing Passwords](./reusing_passwords.html "Reusing Passwords")  
-[Introduction](./ "Introduction")
+[← Password Requirements](./password_requirements.html "Password Requirements")  
+[Introduction →](./phishing_introduction.html "Introduction")
