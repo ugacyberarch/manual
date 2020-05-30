@@ -89,4 +89,4 @@ You cannot be sure how many guesses can be made for your password.
 A password is strong if it would take a very fast computer a very long time to guess.
 
 [← Reusing Passwords](./reusing_passwords.html "Reusing Passwords")  
-[Summary →](./ "Summary")
+[Summary →](./passwords_summary.html "Summary")
