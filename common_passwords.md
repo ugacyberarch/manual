@@ -25,4 +25,4 @@ Remember that attackers do not have to try every password by hand; they often us
 
 You may have also noticed that, although you typed your password into a box that hid the text you entered, it was displayed in clear text on the scoreboard.
 
-[How Passwords Work](./ "How Passwords Work")            [Reusing Passwords](./ "Reusing Passwords")
+[How Passwords Work](./ "How Passwords Work")                                               [Reusing Passwords](./ "Reusing Passwords")
