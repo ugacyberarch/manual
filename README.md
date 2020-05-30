@@ -1,8 +1,11 @@
-# The Cayman theme
+---
+
+---
+# CyberArch
 
 [![Build Status](https://travis-ci.org/pages-themes/cayman.svg?branch=master)](https://travis-ci.org/pages-themes/cayman) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
 
-*Cayman is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman), or even [use it today](#usage).*
+_Cayman is a Jekyll theme for GitHub Pages. You can_ [_preview the theme to see what it looks like_](http://pages-themes.github.io/cayman)_, or even_ [_use it today_](#usage)_._
 
 ![Thumbnail of Cayman](thumbnail.png)
 
@@ -12,15 +15,14 @@ To use the Cayman theme:
 
 1. Add the following to your site's `_config.yml`:
 
-    ```yml
-    theme: jekyll-theme-cayman
-    ```
-
+   ```yml
+   theme: jekyll-theme-cayman
+   ```
 2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
 
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
+   ```ruby
+   gem "github-pages", group: :jekyll_plugins
+   ```
 
 ## Customizing
 
@@ -46,21 +48,22 @@ If you'd like to add your own custom styles:
 
 1. Create a file called `/assets/css/style.scss` in your site
 2. Add the following content to the top of the file, exactly as shown:
-    ```scss
-    ---
-    ---
 
-    @import "{{ site.theme }}";
-    ```
+   ```scss
+   ---
+   ---
+   
+   @import "{{ site.theme }}";
+   ```
 3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
 
-*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
+_Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet._
 
 ### Layouts
 
 If you'd like to change the theme's HTML layout:
 
-1. [Copy the original template](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
+1. [Copy the original template](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html) from the theme's repository<br />(_Pro-tip: click "raw" to make copying easier_)
 2. Create a file called `/_layouts/default.html` in your site
 3. Paste the default layout content copied in the first step
 4. Customize the layout as you'd like
@@ -71,14 +74,15 @@ Templates often rely on URLs supplied by GitHub such as links to your repository
 
 1. Look at [the template source](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
 2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
-    ```yml
-    github:
-      zip_url: http://example.com/download.zip
-      another_url: another value
-    ```
+
+   ```yml
+   github:
+     zip_url: http://example.com/download.zip
+     another_url: another value
+   ```
 3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
 
-*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
+_Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`._
 
 For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
 
