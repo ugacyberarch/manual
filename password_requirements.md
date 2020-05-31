@@ -6,6 +6,12 @@ description: 'Password Requirements '
 ---
 # Password Requirements
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/15SZ0R6B-WLxzPR-6aQ2xVXPSXtJCSocI/preview" width="640" height="480"></iframe>
+</figure>
+<!-- blank line -->
+
 Everyone can agree that complicated passwords do not make your life any
 easier.
 
