@@ -4,7 +4,7 @@ title: Phishing - 4
 description: Fake Emails
 
 ---
-## Fake Emails
+# Fake Emails
 
 Most of us have to deal with a lot of junk mail. Our e-mail providers have gotten better at filtering out unsolicited and fake e-mails, but no system they implement will be foolproof. Like most other aspects of cybersecurity, it is a cat-and-mouse game. Bad actors are continually coming up with new ways to circumvent protection mechanisms and evade detection.
 
