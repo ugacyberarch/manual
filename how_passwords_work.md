@@ -6,13 +6,6 @@ description: 'How Passwords Work '
 ---
 # How Passwords Work
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1MER5_Qk6q6ERqUyqEIG9Ede2NPOJs_cg/preview" width="640" height="480"></iframe>
-</figure>
-<!-- blank line -->
-
-
 Passwords are used to restrict access to content online. Let's develop an
 analogy that will help you understand how they work, their shortcomings, and
 consequently the risk you face. First, we start by thinking about a password as
@@ -62,6 +55,12 @@ password security.
 Next, we will talk about common passwords. Imagine if there were only a few
 dozen variations of keys for a lock. Intruders would find it easy to simply try
 all of the possible keys.
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1MER5_Qk6q6ERqUyqEIG9Ede2NPOJs_cg/preview" width="640" height="480"></iframe>
+</figure>
+<!-- blank line -->
 
 
 
