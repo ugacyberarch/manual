@@ -6,6 +6,11 @@ description: 'How Passwords Work '
 ---
 # How Passwords Work
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1MER5_Qk6q6ERqUyqEIG9Ede2NPOJs_cg/preview" width="640" height="480"></iframe>
+</figure>
+<!-- blank line -->
 
 
 Passwords are used to restrict access to content online. Let's develop an
