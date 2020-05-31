@@ -16,10 +16,6 @@ You may be surprised; the reference list contains over 500 million passwords.
 
 ## "Survey Says!"
 
-
-
-
-
 ## Takeaways
 
 Personal does not always mean unpredictable. Try guessing a pet's name and appending the day of the month you were born. Was it in the list?
@@ -28,5 +24,5 @@ Remember that attackers do not have to try every password by hand; they often us
 
 You may have also noticed that, although you typed your password into a box that hid the text you entered, it was displayed in clear text on the scoreboard.
 
-[← How Passwords Work](./how_passwords_work.html "How Passwords Work")                                                    
+[← How Passwords Work](./how_passwords_work.html "How Passwords Work")  
 [Reusing Passwords →](./reusing_passwords.html "Reusing Passwords")
