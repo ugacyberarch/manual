@@ -14,5 +14,12 @@ We saw how fake domains are used to create links that look legitimate, and now w
 
 Click on the mail icon below to see what phishing e-mails may look like.
 
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1MkxbfJ-SV4F02zzC6ShIHClsHATNsrZr/preview" width="640" height="480"></iframe>
+</figure>
+<!-- blank line -->
+
 [← Fake Links](./fake_links.html "Fake Links")  
 [Summary →](./phishing_summary.html "Summary")
