@@ -3,13 +3,17 @@ layout: default
 
 ---
 # Interactive Cybersecurity Manual
+
 ***
+
 ## Introduction
+
 * [Getting Started](./getting_started.html)
 * [Conventions](./conventions.html)
 * [Note to Readers](./note_to_readers.html)
 
 ## Passwords
+
 * [Introduction](./password_introduction.html)
 * [How Passwords Work](./how_passwords_work.html)
 * [Common Passwords](./common_passwords.html)
@@ -18,6 +22,7 @@ layout: default
 * [Summary](./passwords_summary.html)
 
 ## Phishing
+
 * [Introduction](./phishing_introduction.html)
 * [Fake Domains](./fake_domains.html)
 * [Fake Links](./fake_links.html)
@@ -25,11 +30,11 @@ layout: default
 * [Summary](./phishing_summary.html)
 
 ## Feedback
-* Suvery
 
+* Suvery
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1gkPGHafSDluT107du-zdTDvTQAtR469X/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1gkPGHafSDluT107du-zdTDvTQAtR469X/preview" width="640" height="480"></iframe>
 </figure>
 <!-- blank line -->
