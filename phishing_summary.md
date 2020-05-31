@@ -4,7 +4,7 @@ title: Phishing - 5
 description: Summary
 
 ---
-## Summary
+# Summary
 
 Phishing continues to be a lucrative tactic for online criminals. It is not always easy to differentiate fraudulent correspondence from otherwise legitimate and important communication from the services and people you work with.
 
