@@ -95,5 +95,11 @@ be compromised, or should that password be intercepted, all your accounts can
 fall like dominoes.
 
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1O31C8cGddZ6oTfYMFh5RWMRcMsUdo9u2/preview" width="640" height="480"></iframe>
+</figure>
+<!-- blank line -->
+
 [← Common Passwords](./common_passwords.html "Common Passwords")  
 [Password Requirements →](./password_requirements.html "Password Requirements")
