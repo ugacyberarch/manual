@@ -6,6 +6,12 @@ description: 'Introduction '
 ---
 # Passwords
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1nq_nK8r5E44Uh6naa4wPRAiP-EBHIyBf/preview" width="640" height="480"></iframe>
+</figure>
+<!-- blank line -->
+
 Hands down, the most frustrating daily aspect of online privacy and security is the **password**.
 
 No one likes passwords. Every day we are a little closer to a world where we don't have to use the blasted things.
