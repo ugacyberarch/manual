@@ -1,5 +1,15 @@
 ---
 layout: default
+block: header-2
+navigation:
+- link: ''
+  link_text: Introduction
+- link: ''
+  link_text: ''
+logo: ''
+cta:
+  url: ''
+  button_text: ''
 
 ---
 # Interactive Cybersecurity Manual
