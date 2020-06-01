@@ -8,6 +8,7 @@ fields:
     required: false
   label: block
   default: text-1
+  hidden: true
 - name: headline
   type: text
   config:
