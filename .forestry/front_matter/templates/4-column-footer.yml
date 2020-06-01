@@ -1,0 +1,11 @@
+---
+label: 4-column-footer
+hide_body: false
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: footer-2
