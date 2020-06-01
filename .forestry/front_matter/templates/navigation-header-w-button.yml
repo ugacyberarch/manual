@@ -1,4 +1,49 @@
 ---
 label: navigation-header-w-button
 hide_body: false
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: header-2
+- name: logo
+  type: file
+  config:
+    maxSize: 
+  label: Logo
+- name: navigation
+  type: field_group_list
+  fields:
+  - name: link
+    type: text
+    config:
+      required: false
+    label: link
+  - name: link_text
+    type: text
+    config:
+      required: false
+    label: Link text
+  config:
+    min: 
+    max: 
+    labelField: link_text
+  label: Navigation
+- name: cta
+  type: field_group
+  config: {}
+  fields:
+  - name: url
+    type: text
+    config:
+      required: false
+    label: URL
+  - name: button_text
+    type: text
+    config:
+      required: false
+    label: Button Text
+  label: Call-to-action
