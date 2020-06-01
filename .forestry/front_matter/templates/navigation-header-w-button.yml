@@ -1,4 +1,16 @@
 ---
 label: navigation-header-w-button
 hide_body: false
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  hidden: true
+  label: block
+  default: header-2
+- name: logo
+  type: file
+  config:
+    maxSize: 64
+  label: Logo
