@@ -1,4 +1,24 @@
 ---
 label: text-1
 hide_body: false
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  default: text-1
+- name: headline
+  type: text
+  config:
+    required: false
+  label: Headline
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Content
