@@ -17,7 +17,7 @@ page_sections:
   block: header-2
   navigation:
   - link: ''
-    link_text: Introduction
+    link_text: Hello
   logo: ''
   cta:
     url: ''
