@@ -1,4 +1,31 @@
 ---
 label: 2-column-text
 hide_body: false
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: two-column-1
+- name: col_1
+  type: field_group
+  config: {}
+  fields:
+  - name: column
+    type: include
+    config: {}
+    template: text-column
+    label: Column
+  label: 'Column 1 '
+- name: col_2
+  type: field_group
+  config: {}
+  fields:
+  - name: column
+    type: include
+    config: {}
+    template: text-column
+    label: Column
+  label: 'Column 2 '
