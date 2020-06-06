@@ -47,3 +47,5 @@ fields:
       required: false
     label: Button Text
   label: Call-to-action
+pages:
+- index.html.md
