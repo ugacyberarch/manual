@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Passwords - 1 '
+title: 'Passwords '
 description: 'Introduction '
 
 ---
