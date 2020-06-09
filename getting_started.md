@@ -2,6 +2,7 @@
 layout: default
 title: Introduction - 1
 description: 'Getting Started '
+permalink: /Introduction
 
 ---
 ## Cyber Security and Privacy
