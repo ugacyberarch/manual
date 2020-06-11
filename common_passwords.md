@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Passwords - 3
+title: Passwords
 description: Common Passwords
 
 ---
