@@ -68,5 +68,5 @@ fields:
   hidden: true
   default: home
 pages:
-- conventions.md
+- "./introduction-1.md"
 - getting_started.md
