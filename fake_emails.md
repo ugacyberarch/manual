@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Phishing - 4
+title: Phishing
 description: Fake Emails
 
 ---
