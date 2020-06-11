@@ -98,12 +98,13 @@ Find the domain name in a URL.
 
 Always check the URL in the address bar.
 
-
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1IYuuQaNgavj55wlotiXjivlYwYyIX54W/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1IYuuQaNgavj55wlotiXjivlYwYyIX54W/preview" width="640" height="480"></iframe>
 </figure>
 <!-- blank line -->
 
-[← Fake Domains](./fake_domains.html "Fake Domains")  
+[← Fake Domains](./fake_domains.html "Fake Domains")
+
+  
 [Fake Emails →](./fake_emails.html "Fake Emails")
