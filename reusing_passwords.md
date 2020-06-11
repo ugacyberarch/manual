@@ -13,10 +13,10 @@ Oh, and don't forget it has to be 8 characters or longer:
 
 > Error
 >
-> * must contain one upper case letter [A-Z]
-> * must contain one lower case letter [a-z]
-> * must contain one number [0-9]
-> must contain one symbol (e.g. &%$ ...)
+> * must contain one upper case letter \[A-Z\]
+> * must contain one lower case letter \[a-z\]
+> * must contain one number \[0-9\]
+>   must contain one symbol (e.g. &%$ ...)
 > * **minimum length of 8**
 
 While this is not bad practice, it can be excessive and extremely frustrating,
@@ -25,7 +25,7 @@ things, like capitalize the first letter, or append their birthday._
 
 We just learned not to use common passwords, but before we talk about why
 websites want to force you to have complex passwords, let's talk about
-something that can be more risky &mdash; **using the same password across
+something that can be more risky — **using the same password across
 websites**.
 
 No one wants to remember a dozen passwords, and those infuriating requirements
@@ -53,8 +53,6 @@ only the website should be able to open. Would that keep your key a secret?
 
 **Are your passwords really secret?**
 
-
-
 The server sees exactly what you input.
 
 Once shared, a secret is no longer a secret. We share our password with the
@@ -64,14 +62,12 @@ can discover your password.
 Once one account is compromised, those same credentials can be used to login
 to any service where you reused them.
 
-
 ## Password Resets
 
 Most of us have one primary e-mail address.
 
 Should you ever forget your username or password for a website or service you
 use, all you have to do is click `Forgot password?` and reset it, right?.
-
 
 Well, that pretty much means that the password for your primary e-mail account
 is the nuclear launch codes of your personal security online.
@@ -94,12 +90,13 @@ expose your password to every service you use it on, and should any one of them
 be compromised, or should that password be intercepted, all your accounts can
 fall like dominoes.
 
-
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1O31C8cGddZ6oTfYMFh5RWMRcMsUdo9u2/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1O31C8cGddZ6oTfYMFh5RWMRcMsUdo9u2/preview" width="640" height="480"></iframe>
 </figure>
 <!-- blank line -->
 
-[← Common Passwords](./common_passwords.html "Common Passwords")  
+[← Common Passwords](./common_passwords.html "Common Passwords")
+
+  
 [Password Requirements →](./password_requirements.html "Password Requirements")
