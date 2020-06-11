@@ -45,6 +45,6 @@ spotting a difference between a counterfeit $100 bill and a real $100 bill.
 
 You may end up being scammed if you don't look! It is important.
 
-[← Getting Started](./getting_started.html "Getting Started")
+[← Getting Started](./manual/ "Getting Started")
 
 [Note to Readers →](./note_to_readers.html "Note to Readers")
