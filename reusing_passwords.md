@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Passwords - 4
+title: Passwords
 description: Reusing Passwords
 
 ---
