@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Phishing - 3
+title: Phishing
 description: Fake Links
 
 ---
