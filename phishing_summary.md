@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Phishing - 5
+title: Phishing
 description: Summary
 
 ---
