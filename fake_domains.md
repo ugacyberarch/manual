@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Phishing - 2 '
+title: 'Phishing'
 description: 'Fake Domains '
 
 ---
