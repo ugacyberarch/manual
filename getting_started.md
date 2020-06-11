@@ -32,7 +32,7 @@ Experts may find the information oversimplified. This guide is not an exhaustive
 
 Remember that the world is very inequitable. The incentive for bad actors is greater than you can imagine, and therefore the risk is more than you have considered.
 
-# CyberArch
+## CyberArch
 
 The University of Georgia launched the Archway initiative to connect the resources of the University to our communities.
 
