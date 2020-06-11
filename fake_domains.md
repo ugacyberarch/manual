@@ -11,11 +11,10 @@ ever-increasing part of daily life.
 
 **What is a "domain name"?**
 
-- facebook.com
-- www.google.com
-- www.bbc.co.uk
-- en.wikipedia.org
-
+* facebook.com
+* www.google.com
+* www.bbc.co.uk
+* en.wikipedia.org
 
 Domain names, sometimes called _hostnames_, are the identifiers we give to
 systems on the internet. For a few dollars a year, you can register your own
@@ -30,7 +29,6 @@ created solely to steal your information.
 > Here is an example of a domain that was used to phish for PayPal accounts:
 >
 > **paypal.com.9kcj.pw**
-
 
 **How can you tell that `paypal.com.9kcj.pw` is a fake domain?**
 
@@ -49,14 +47,12 @@ domain tells you who controls it.
 > For example, if you read `www.facebook.com` from right to left, you see that
 > `com` controls `Facebook`, which controls `www`.
 
-
-
 So, when you read the domain `paypal.com.9kcj.pw` from right to left, you see
 that `pw` controls `9kcj`, which created a fake extension `paypal.com`.
 
 Most companies use a single "top-level" domain, (e.g. `.com`, `.net`, or
 `.org`).  Be wary if you expect the domain to end in `.com` but it actually
-ends in something obscure, like `.pw`. 
+ends in something obscure, like `.pw`.
 
 That may seem rather confusing, but it all becomes clear when you understand
 how domains are created.
@@ -75,14 +71,10 @@ domain.
 Try adding `paypal.com` to the _beginning_ of any other domain. Does that
 change the real `paypal.com`? Does it belong to PayPal?
 
-
-
 ## Phish / Not Phish
 
 Adding a fake prefix is not the only trick criminals use. Below is a guessing
 game. Would any of these phish fool you?
-
-
 
 ## Takeaways
 
@@ -94,7 +86,7 @@ about it as a tree.
 Be wary of domains that end in a top-level you didn't expect (e.g. `.co`
 instead of `.com`).
 
+[← Introduction](./phishing_introduction.html "Introduction")
 
-
-[← Introduction](./phishing_introduction.html "Introduction")  
+  
 [Fake Links →](./fake_links.html "Fake Links")
