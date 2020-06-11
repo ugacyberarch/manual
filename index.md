@@ -10,7 +10,7 @@ logo: ''
 cta:
   url: ''
   button_text: ''
-title: Homepage
+title: Interactive Cybersecurity Manual
 date: 2020-06-01 04:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
@@ -24,9 +24,6 @@ page_sections:
     button_text: ''
 
 ---
-# Interactive Cybersecurity Manual
-
-***
 
 ## Introduction
 
