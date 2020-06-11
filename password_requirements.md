@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Passwords - 5
+title: Passwords
 description: 'Password Requirements '
 
 ---
