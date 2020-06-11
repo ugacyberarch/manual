@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Introduction - 1
+title: 'Introduction - 2 '
 description: 'Conventions '
-heading: Getting Started
-sub_heading: Getting Started
+heading: Convenetions
+sub_heading: 'Conventions '
 banner_image: ''
 hero_button:
   text: ''
@@ -13,32 +13,39 @@ services: []
 published: false
 
 ---
-# Cyber Security and Privacy
+# Conventions
 
-For many of us, privacy and security are an everyday concern. We lock the doors on our homes. We lock our cars. We close our blinds.
+**Who's That Comin' Down the Track?**
 
-However, when it comes to the internet, it isn't always straight forward how to protect ourselves, and for those of us that never have to lock our doors, or close our blinds, it can feel even more unnecessary and inconvenient.
+Have you ever stopped to wonder who decided how wide railroad tracks should be?
 
-**Why do we lock our doors?**
+Some time ago, everyone had to agree that railroad tracks should be a common
+width.
 
-Oddly enough, those of us that don't need to lock our doors can tell you the answer — **trust**. If you trust your neighbors, and your community, it isn't necessary. The risk is low.
+How many inventions over the past century have been influenced by the width of
+our railways?
 
-Unfortunately, the internet is a global community with neighbors you **cannot** trust, and criminals on the internet can steal a lot more than your car stereo. The risk is very high.
+Similarly, the internet is a series of abstractions based on conventions agreed
+on by the world, and those specifications have limitations and cascading
+repercussions for all the technologies that use them.
 
-Some of you may be thinking, "Locking a door won't stop a determined thief from breaking a window!", and the same is true for privacy and security online. We won't talk about how to put bars on every window.
+To understand how to use the internet safely, you will need to understand some
+of the conventions (protocols) we use.
 
-Experts may find the information oversimplified. This guide is not an exhaustive treatment for foolproof security, it is meant to show you the basics of protecting yourself.
+For example, we may ask you something like:
 
-**Why are privacy and security important?**
+> **Question**
+>
+> What's the difference between these two links?  
+> **https://www.paypal.com** and **http://www.paypal.evil.example.com**
 
-Remember that the world is very inequitable. The incentive for bad actors is greater than you can imagine, and therefore the risk is more than you have considered.
+You only want to pay your water bill. Why do you need to know?
 
-## CyberArch
+In this case, you might compare knowing the difference between these links and
+spotting a difference between a counterfeit $100 bill and a real $100 bill.
 
-The University of Georgia launched the Archway initiative to connect the resources of the University to our communities.
+You may end up being scammed if you don't look! It is important.
 
-Cybersecurity is one of the ways we hope to serve our communities. When we reached out to see how we could help, we found an incredible demand for information.
+[← Getting Started](./getting_started.html "Getting Started")
 
-This is a living document that aims to develop accessible cybersecurity information. Rather than provide a list of recommendations that may seem frivolous and inconvenient, our goal is to provide the context you need to understand the risks you face.
-
-[Conventions →](./conventions.html)
+[Note to Readers →](./note_to_readers.html "Note to Readers")
