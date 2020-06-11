@@ -1,5 +1,5 @@
 ---
-layout: blocks
+layout: default
 block: header-2
 navigation:
 - link: ''
@@ -55,8 +55,4 @@ page_sections:
 
 * Suvery
 
-<!-- blank line -->
-<figure class="video_container">
-<iframe src="https://drive.google.com/file/d/1gkPGHafSDluT107du-zdTDvTQAtR469X/preview" width="640" height="480"></iframe>
-</figure>
-<!-- blank line -->
+
