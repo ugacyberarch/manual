@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Passwords - 6
+title: Passwords
 description: Summary
 
 ---
