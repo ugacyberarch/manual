@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Phishing - 1 '
+title: 'Phishing'
 description: 'Introduction '
 
 ---
