@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction - 3
+title: Introduction
 description: Note to Readers
 
 ---
