@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Passwords - 2
+title: Passwords 
 description: 'How Passwords Work '
 
 ---
