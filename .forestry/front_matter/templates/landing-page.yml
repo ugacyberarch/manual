@@ -69,4 +69,3 @@ fields:
   default: home
 pages:
 - conventions.md
-- getting_started.md
