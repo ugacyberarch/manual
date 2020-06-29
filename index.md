@@ -11,13 +11,11 @@ cta:
   url: ''
   button_text: ''
 title: Interactive Cybersecurity Manual
-date: '2020-06-01T04:00:00.000+00:00'
 page_sections:
 - template: navigation-header-w-button
   block: header-2
   navigation:
   - link: ''
-    link_text: Hello
   logo: ''
   cta:
     url: ''
