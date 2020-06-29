@@ -6,11 +6,10 @@ heading: Data Breaches and Data Leaks
 sub_heading: Data Breaches and Data Leaks
 
 ---
-# Ransomware
 
-## Data Breaches and Data Leaks
+# Data Breaches and Data Leaks
 
-### Who in law enforcement should be contacted in the event of a data breach or data leak?
+## Who in law enforcement should be contacted in the event of a data breach or data leak?
 
 Since most jurisdictions do not state whom specifically to notify in the event of a data breach or data leak, the best place to start is often local law enforcement.<sup>30</sup> In some cases, though, working with federal agencies might be necessary, depending on the nature and scope of the issue.<sup>31</sup> For data breaches concerning credit card fraud, the Secret Service is the agency that will typically take an interest.<sup>32</sup> For other fraudulent activity, such as bank account hacking, the FBI will be the most engaged.<sup>33</sup> For breaches involving mail theft, victims should contact the U.S. Postal Inspection Service.<sup>34</sup> While data breach notification statutes vary by state, most states require a business to send a letter to each data breach victim in the state where the victim resides.<sup>35</sup>
 
