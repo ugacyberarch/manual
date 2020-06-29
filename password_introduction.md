@@ -16,6 +16,12 @@ Passwords are ubiquitous today, and understanding the reasoning behind good pass
 
 ## New Account
 
-[← Note to Readers](./note_to_readers.html "Note to Reader ")
 
-[How Passwords Work →](./how_passwords_work.html "How Passwords Work ")
+ <span style="float:left;"> 
+<a href="./note_to_readers.html ">← Note to Readers</a>
+  </span> 
+ <span style="float:right;">
+  <a href="./how_passwords_work.html ">How Passwords Work →</a>
+  </span> 
+<br />
+<br />
