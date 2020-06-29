@@ -37,6 +37,6 @@ For businesses operating in states and jurisdictions that do not have statutes r
 Some ransomware attacks are also covered under the Health Insurance Portability and Accountability Act (HIPPA). Under HIPPA, a company might be subject to ransomware notification regulations if it is a “covered entity” or “business associate” of the covered entity and collects, stores, or uses protected health information (PHI).<sup>27</sup> Under the HIPPA Security Rule, the existence of ransomware on a covered entity’s or business associate’s computer systems requires the entity or associate to initiate security incident, response, and reporting procedures and contact its local FBI or USSS field office.<sup>28</sup> If the ransomware involves the encryption of electronic PHI (ePHI) or if the covered entity or business associate cannot show that there is a “low probability PHI has been compromised,” then the attack is considered a data breach and there might be further notification requirements under the HIPPA Breach Notification Rule.<sup>29</sup>
 
 
-[← Summary](./fake_emails.html "Summary")
+[← Summary](./phishing_summary.html "Summary")
 
 [Ransomw →]( "Ransomware")
