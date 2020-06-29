@@ -37,15 +37,8 @@ Some ransomware attacks are also covered under the Health Insurance Portability 
 
 
 <body>
-
-<h2>Previous and Next Buttons</h2>
-
-<a href="#" class="previous">&laquo; Previous</a>
+<a href="./phishing_summary.html" class="summary">&laquo; Summary</a>
 <a href="#" class="next">Next &raquo;</a>
-
-<a href="#" class="previous round">&#8249;</a>
-<a href="#" class="next round">&#8250;</a>
-  
 </body>
 
 
