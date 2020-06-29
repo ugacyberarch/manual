@@ -25,7 +25,7 @@ Quite honestly, you can never be completely sure that the e-mails you receive ar
 
 
  <span style="float:left;"> 
-<a href="./passwords_summary.htm">← Summary</a>
+<a href="./passwords_summary.html">← Summary</a>
   </span> 
  <span style="float:right;">
   <a href="./fake_domains.html ">Fake Domains →</a>
