@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ransomware
-description: Summary
+description: What is ransomware? 
 heading: 'What is ransomware? '
 sub_heading: 'What is ransomware? '
 
