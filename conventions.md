@@ -45,6 +45,14 @@ spotting a difference between a counterfeit $100 bill and a real $100 bill.
 
 You may end up being scammed if you don't look! It is important.
 
-[← Getting Started](https://ugacyberarch.github.io/manual/)
 
-[Note to Readers →](./note_to_readers.html "Note to Readers")
+
+
+ <span style="float:left;"> 
+<a href="https://ugacyberarch.github.io/manual/">← Getting Started</a>
+  </span> 
+ <span style="float:right;">
+  <a href="./note_to_readers.html">Note to Readers →</a>
+  </span> 
+<br />
+<br />
