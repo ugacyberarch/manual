@@ -69,3 +69,4 @@ fields:
   default: home
 pages:
 - conventions.md
+- ransomware-1.md
