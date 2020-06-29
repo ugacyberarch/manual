@@ -4,7 +4,6 @@ title: Ransomware22
 description: Summary
 heading: Data Breaches and Data Leaks
 sub_heading: Data Breaches and Data Leaks
-published: false
 
 ---
 # Ransomware
