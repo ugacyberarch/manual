@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ransomware22
+title: Ransomware
 description: Data Breaches and Data Leaks
 heading: Data Breaches and Data Leaks
 sub_heading: Data Breaches and Data Leaks
