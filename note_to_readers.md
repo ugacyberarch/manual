@@ -30,6 +30,14 @@ internet works.
 Remember that if anything we show you does not make sense, **we** did something
 wrong, and we want to hear from you. Let us know so that we can improve it.
 
-[← Conventions](./conventions.html "Conventions ")
 
-[Introduction →](./password_introduction.html "Introduction")
+
+ <span style="float:left;"> 
+<a href="./conventions.html ">← Conventions</a>
+  </span> 
+ <span style="float:right;">
+  <a href="./password_introduction.html  ">Introduction →</a>
+  </span> 
+<br />
+<br />
+
