@@ -28,3 +28,14 @@ You may have also noticed that, although you typed your password into a box that
 
   
 [Reusing Passwords →](./reusing_passwords.html "Reusing Passwords")
+
+
+
+ <span style="float:left;"> 
+<a href="./how_passwords_work.html">← How Passwords Work</a>
+  </span> 
+ <span style="float:right;">
+  <a href="./reusing_passwords.html ">Reusing Passwords →</a>
+  </span> 
+<br />
+<br />
