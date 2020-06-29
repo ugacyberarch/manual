@@ -220,7 +220,13 @@ guess.
 </figure>
 <!-- Tutorial Video -->
 
-[← Reusing Passwords](./reusing_passwords.html "Reusing Passwords")
 
-  
-[Summary →](./passwords_summary.html "Summary")
+
+ <span style="float:left;"> 
+<a href="./reusing_passwords.html">← Reusing Passwords</a>
+  </span> 
+ <span style="float:right;">
+  <a href="./passwords_summary.html ">Summary →</a>
+  </span> 
+<br />
+<br />
