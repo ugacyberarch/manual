@@ -1,12 +1,18 @@
 ---
 layout: default
-title: Ransomware12
+title: Ransomware
 description: Summary
+heading: 'What is ransomware? '
+sub_heading: 'What is ransomware? '
 
 ---
 # Ransomware
 
-P
-[← Fake Emails](./fake_emails.html "Fake Emails")
+
+
+
+
+
+ [← Summary](./fake_emails.html "Summary")
 
 [Ransomware →]( "Ransomware")
