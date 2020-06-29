@@ -46,6 +46,15 @@ Some ransomware attacks are also covered under the Health Insurance Portability 
 
 
 
+.right{
+    float:right;
+}
+
+.left{
+    float:left;
+}
+
+
 <span class="right">
   <a href="./phishing_summary.html">← Summary</a>
 </span>
