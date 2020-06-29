@@ -180,7 +180,14 @@ Always check the URL in the address bar.
 </figure>
 <!-- blank line -->
 
-[← Fake Domains](./fake_domains.html "Fake Domains")
 
-  
-[Fake Emails →](./fake_emails.html "Fake Emails")
+
+
+ <span style="float:left;"> 
+<a href="./fake_domains.html ">← Fake Domains</a>
+  </span> 
+ <span style="float:right;">
+  <a href="./fake_emails.html ">Fake Emails →</a>
+  </span> 
+<br />
+<br />
