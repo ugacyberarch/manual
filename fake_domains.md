@@ -122,7 +122,7 @@ instead of `.com`).
 
 
  <span style="float:left;"> 
-<a href="/phishing_introduction.html">← Introduction</a>
+<a href="./phishing_introduction.html">← Introduction</a>
   </span> 
  <span style="float:right;">
   <a href="./fake_links.html ">Fake Links →</a>
