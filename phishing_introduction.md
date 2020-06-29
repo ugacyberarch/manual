@@ -22,7 +22,13 @@ Quite honestly, you can never be completely sure that the e-mails you receive ar
 </figure>
 <!-- blank line -->
 
-[← Summary](./passwords_summary.html "Summary")
 
-  
-[Fake Domains →](./fake_domains.html "Fake Domains")
+
+ <span style="float:left;"> 
+<a href="./passwords_summary.htm">← Summary</a>
+  </span> 
+ <span style="float:right;">
+  <a href="./fake_domains.html ">Fake Domains →</a>
+  </span> 
+<br />
+<br />
