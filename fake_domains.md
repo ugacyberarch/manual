@@ -118,7 +118,15 @@ about it as a tree.
 Be wary of domains that end in a top-level you didn't expect (e.g. `.co`
 instead of `.com`).
 
-[← Introduction](./phishing_introduction.html "Introduction")
 
-  
-[Fake Links →](./fake_links.html "Fake Links")
+
+
+ <span style="float:left;"> 
+<a href="/phishing_introduction.html">← Introduction</a>
+  </span> 
+ <span style="float:right;">
+  <a href="./fake_links.html ">Fake Links →</a>
+  </span> 
+<br />
+<br />
+
