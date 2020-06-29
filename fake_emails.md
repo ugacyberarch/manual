@@ -20,7 +20,12 @@ Click on the mail icon below to see what phishing e-mails may look like.
 </figure>
 <!-- blank line -->
 
-[← Fake Links](./fake_links.html "Fake Links")
 
-  
-[Summary →](./phishing_summary.html "Summary")
+ <span style="float:left;"> 
+<a href="./fake_links.html ">← Fake Links</a>
+  </span> 
+ <span style="float:right;">
+  <a href="./phishing_summary.html ">Summary →</a>
+  </span> 
+<br />
+<br />
