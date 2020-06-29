@@ -31,7 +31,7 @@ However, just like your primary e-mail, it is absolutely critical that you take 
 
 
  <span style="float:left;"> 
-<a href="./password_requirements.html">← ← Password Requirements</a>
+<a href="./password_requirements.html">← Password Requirements</a>
   </span> 
  <span style="float:right;">
   <a href="./phishing_introduction.html ">Introduction →</a>
