@@ -52,3 +52,9 @@ This is a living document that aims to develop accessible cybersecurity informat
 
 [Conventions →](./conventions.html)
 
+
+ <span style="float:right;">
+  <a href="./conventions.html ">Conventions →</a>
+  </span> 
+<br />
+<br />
