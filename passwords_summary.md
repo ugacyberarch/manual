@@ -28,7 +28,13 @@ So, you will only need to remember the password for your password manager, which
 
 However, just like your primary e-mail, it is absolutely critical that you take special care to protect this all-important "password to rule them all".
 
-[← Password Requirements](./password_requirements.html "Password Requirements")
 
-  
-[Introduction →](./phishing_introduction.html "Introduction")
+
+ <span style="float:left;"> 
+<a href="./password_requirements.html">← ← Password Requirements</a>
+  </span> 
+ <span style="float:right;">
+  <a href="./phishing_introduction.html ">Introduction →</a>
+  </span> 
+<br />
+<br />
