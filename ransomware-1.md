@@ -9,7 +9,6 @@ hero_button:
   href: ''
 textline: ''
 services: []
-published: false
 
 ---
 Ransomware
