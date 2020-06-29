@@ -81,6 +81,12 @@ all of the possible keys.
 
 
 
-[← Introduction](./password_introduction.html "Introduction ")
 
-[Common Passwords →](./common_passwords.html "Common Passwords")
+ <span style="float:left;"> 
+<a href="./password_introduction.html ">← Introduction</a>
+  </span> 
+ <span style="float:right;">
+  <a href="./common_passwords.htm  ">Common Passwords →</a>
+  </span> 
+<br />
+<br />
