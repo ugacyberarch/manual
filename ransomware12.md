@@ -2,7 +2,6 @@
 layout: default
 title: Ransomware12
 description: Summary
-published: false
 
 ---
 # Ransomware
