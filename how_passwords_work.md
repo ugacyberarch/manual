@@ -86,7 +86,7 @@ all of the possible keys.
 <a href="./password_introduction.html ">← Introduction</a>
   </span> 
  <span style="float:right;">
-  <a href="./common_passwords.htm  ">Common Passwords →</a>
+  <a href="./common_passwords.html  ">Common Passwords →</a>
   </span> 
 <br />
 <br />
