@@ -31,6 +31,6 @@ Some ransomware attacks are also covered under the Health Insurance Portability 
 
 
 
-[← fix ](./fake_domains.html "Fake Domains")
+[← Summary](./phishing_summary.html "Summary")
 
 [Fix  →](./fake_emails.html "Fake Emails")
