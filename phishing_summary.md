@@ -21,4 +21,4 @@ Even if you have confidence in the format and content of the e-mail, you should 
 [← Fake Emails](./fake_emails.html "Fake Emails")
 
   
-[Survey →](./home_page.html "Survey")
+[Ransomware →]( "Ransomware")
