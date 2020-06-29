@@ -38,4 +38,6 @@ Some ransomware attacks are also covered under the Health Insurance Portability 
 
 [← Summary](./phishing_summary.html "Summary")
 
+<div style="text-align: right"> 
 [Data Breaches and Data Leaks →](./data_breaches_leaks.html "Data Breaches and Data Leaks")
+ </div>
