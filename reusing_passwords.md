@@ -104,7 +104,14 @@ fall like dominoes.
 </figure>
 <!-- blank line -->
 
-[← Common Passwords](./common_passwords.html "Common Passwords")
 
-  
-[Password Requirements →](./password_requirements.html "Password Requirements")
+
+
+ <span style="float:left;"> 
+<a href="./common_passwords.html">← Common Passwords</a>
+  </span> 
+ <span style="float:right;">
+  <a href="./password_requirements.html">Password Requirements →</a>
+  </span> 
+<br />
+<br />
