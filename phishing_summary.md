@@ -18,7 +18,13 @@ We discussed how criminals create fake domain names and fake links to make the s
 
 Even if you have confidence in the format and content of the e-mail, you should check every link you use; before you click it and in the address bar after the website loads.
 
-[← Fake Emails](./fake_emails.html "Fake Emails")
 
-  
-[Ransomware →](./ransomware.html "Ransomware")
+
+ <span style="float:left;"> 
+<a href="./fake_emails.html">← Fake Emails</a>
+  </span> 
+ <span style="float:right;">
+  <a href="./ransomware.html">Ransomware →</a>
+  </span> 
+<br />
+<br />
