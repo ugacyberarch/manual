@@ -6,7 +6,6 @@ heading: 'What is ransomware? '
 sub_heading: 'What is ransomware? '
 
 ---
-# Ransomware
 
 ## What is ransomware?
 
