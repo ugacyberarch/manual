@@ -82,6 +82,12 @@ all of the possible keys.
 
 
 
+<video controls width ="250">
+  <source src ="/HowPasswordsWork.mp4" type="video/mp4">
+  </video>
+
+
+
  <span style="float:left;"> 
 <a href="./password_introduction.html ">← Introduction</a>
   </span> 
