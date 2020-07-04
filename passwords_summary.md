@@ -29,6 +29,10 @@ So, you will only need to remember the password for your password manager, which
 However, just like your primary e-mail, it is absolutely critical that you take special care to protect this all-important "password to rule them all".
 
 
+<video controls width ="250">
+  <source src ="/HowPasswordsWork.mp4" type="video/mp4">
+</video>
+
 
  <span style="float:left;"> 
 <a href="./password_requirements.html">← Password Requirements</a>
