@@ -34,7 +34,7 @@ However, just like your primary e-mail, it is absolutely critical that you take 
 </video>
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+  <video controls="true" allowfullscreen="true" poster="/HowPasswordsWork.mp4">
   source src="/HowPasswordsWork.mp4" type="video/mp4">
     </video>
 </figure>
