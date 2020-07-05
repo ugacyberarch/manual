@@ -119,6 +119,10 @@ Be wary of domains that end in a top-level you didn't expect (e.g. `.co`
 instead of `.com`).
 
 
+<!-- Tutorial Video -->
+<video width="320" height="240" controls>
+  <source src ="Phishing Fake Domains.mp4" type= "video/mp4">
+</video>
 
 
  <span style="float:left;"> 
