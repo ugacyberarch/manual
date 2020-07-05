@@ -174,11 +174,11 @@ Find the domain name in a URL.
 
 Always check the URL in the address bar.
 
-<!-- blank line -->
-<figure class="video_container">
-<iframe src="https://drive.google.com/file/d/1IYuuQaNgavj55wlotiXjivlYwYyIX54W/preview" width="640" height="480"></iframe>
-</figure>
-<!-- blank line -->
+
+<!-- Tutorial Video -->
+<video width="320" height="240" controls>
+  <source src ="Phishing Fake Links.mp4" type= "video/mp4">
+</video>
 
 
 
