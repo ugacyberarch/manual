@@ -98,11 +98,10 @@ expose your password to every service you use it on, and should any one of them
 be compromised, or should that password be intercepted, all your accounts can
 fall like dominoes.
 
-<!-- blank line -->
-<figure class="video_container">
-<iframe src="https://drive.google.com/file/d/1O31C8cGddZ6oTfYMFh5RWMRcMsUdo9u2/preview" width="640" height="480"></iframe>
-</figure>
-<!-- blank line -->
+<!-- Tutorial Video -->
+<video width="320" height="240" controls>
+  <source src ="reusing passwords.mp4" type= "video/mp4">
+</video>
 
 
 
