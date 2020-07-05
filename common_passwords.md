@@ -25,6 +25,10 @@ Remember that attackers do not have to try every password by hand; they often us
 You may have also noticed that, although you typed your password into a box that hid the text you entered, it was displayed in clear text on the scoreboard.
 
 
+<!-- Tutorial Video -->
+<video width="320" height="240" controls>
+  <source src ="Survey Says.mp4" type= "video/mp4">
+</video>
 
 
 
