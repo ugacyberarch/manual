@@ -73,12 +73,6 @@ Next, we will talk about common passwords. Imagine if there were only a few
 dozen variations of keys for a lock. Intruders would find it easy to simply try
 all of the possible keys.
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1MER5_Qk6q6ERqUyqEIG9Ede2NPOJs_cg/preview" width="640" height="480"></iframe>
-</figure>
-<!-- blank line -->
-
 
 
 
