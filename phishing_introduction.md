@@ -16,11 +16,6 @@ It is a very effective strategy, and the most successful phishing attacks are of
 
 Quite honestly, you can never be completely sure that the e-mails you receive are legitimate, but there is a very basic knowledge of web technologies that will protect you from being deceived.
 
-<!-- blank line -->
-<figure class="video_container">
-<iframe src="https://drive.google.com/file/d/1ztaLDEYE3201Ga5hdAGNLLEn0QAhhX_R/preview" width="640" height="480"></iframe>
-</figure>
-<!-- blank line -->
 
 
 
