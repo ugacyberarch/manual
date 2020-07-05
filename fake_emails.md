@@ -21,6 +21,11 @@ Click on the mail icon below to see what phishing e-mails may look like.
 <!-- blank line -->
 
 
+
+<video width="320" height="240" controls>
+  <source src ="Fake Emails.mp4" type= "video/mp4">
+</video>
+
  <span style="float:left;"> 
 <a href="./fake_links.html ">← Fake Links</a>
   </span> 
