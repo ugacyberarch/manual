@@ -215,10 +215,10 @@ A password is strong if it would take a very fast computer a very long time to
 guess.
 
 <!-- Tutorial Video -->
-<figure class="video_container">
-<iframe src="https://drive.google.com/file/d/15SZ0R6B-WLxzPR-6aQ2xVXPSXtJCSocI/preview" width="640" height="480"></iframe>
-</figure>
-<!-- Tutorial Video -->
+<video width="320" height="240" controls>
+  <source src ="password requirements.mp4" type= "video/mp4">
+</video>
+
 
 
 
