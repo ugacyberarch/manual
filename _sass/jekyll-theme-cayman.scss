@@ -69,6 +69,7 @@ a {
   color: rgba(255, 255, 255, 0.7);
   background-color: #A9A9A9;
   border-color: #A9A9A9;
+  padding: 15px 32px;
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
@@ -97,7 +98,7 @@ a {
   @include small {
     display: block;
     width: 100%;
-    padding: 0.50rem;
+    padding: 0.75rem;
     font-size: 0.9rem;
 
     + .btn {
