@@ -16,7 +16,7 @@
 }
 
 @mixin small {
-  @media screen and (max-width: #{$medium-breakpoint}) {
+  @media screen and (max-width: #{$small-breakpoint}) {
     @content;
   }
 }
@@ -80,7 +80,7 @@ a {
   }
 
   + .btn {
-    margin-left: 2rem;
+    margin-left: 1rem;
   }
 
   @include large {
