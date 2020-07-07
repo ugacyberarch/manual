@@ -103,12 +103,13 @@ a {
       margin-left: 0;
     }
   }
-  @media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
 }
-  
+
+
+@media screen and (max-width: 600px) {
+  .row {
+    flex-direction: column;
+  }
 }
 
 
