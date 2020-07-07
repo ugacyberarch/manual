@@ -65,7 +65,7 @@ a {
 
 .btn {
   display: inline-block;
-  margin-bottom: 16px;
+  margin-bottom: 1rem;
   color: rgba(255, 255, 255, 0.7);
   background-color: #A9A9A9;
   border-color: #A9A9A9;
@@ -97,7 +97,7 @@ a {
   @include small {
     display: block;
     width: 100%;
-    padding: 0.75rem;
+    padding: 0.50rem;
     font-size: 0.9rem;
 
     + .btn {
